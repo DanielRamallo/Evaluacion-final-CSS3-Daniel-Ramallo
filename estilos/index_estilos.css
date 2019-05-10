@@ -1,0 +1,11 @@
+#cabecera{
+  width: auto;
+  height: 200px;
+  background-color: #5b7989;
+  border-radius: 10px;
+}
+#titulodecabecera{
+  color:#FFFFFF;
+  text-shadow: 2px 2px #02010a;
+  text-align: center;
+}
