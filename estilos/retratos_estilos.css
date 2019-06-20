@@ -90,11 +90,6 @@ div [id*="imagencata"]{
   border-color: black;
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
-div [class*="cont_padre"] {
-  display: flex;
-  flex-direction: column;
-  background-color: #d5c75f;
-}
 #imagencataratas1{
   webkit-filter:blur(10px);
   filter: blur(10px);
